@@ -1,4 +1,4 @@
-`README.md`, **projet Hackatho 2 Team BLUE de formation en IA générative**
+`README.md`, **projet Hackathon 2 Team BLUE de formation en IA générative**
 
 La video de présentation est accessible sous ce lien: https://youtu.be/rhXxy3tc2V0
 
