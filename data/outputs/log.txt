@@ -1,0 +1,412 @@
+[UPLOAD] Fichier reçu : test_doc.pdf
+[PARSE] 14 pages extraites depuis le fichier test_doc.pdf
+[EMBED] Embeddings générés ((14, 384))
+[UPLOAD] Fichier reçu : test_doc.pdf
+[PARSE] 14 pages extraites depuis le fichier test_doc.pdf
+[EMBED] Embeddings générés ((14, 384))
+[QUERY] Question posée : ou acheter mon poisson ? | Top-3 résultats : [13  3  8]
+[SUMMARY] Résumé généré (33 mots)
+[UPLOAD] Fichier reçu : test_doc.pdf
+[PARSE] 14 pages extraites depuis le fichier test_doc.pdf
+[EMBED] Embeddings générés ((14, 384))
+[QUERY] Question posée : ou acheter mon poisson ? | Top-3 résultats : [13  3  8]
+[SUMMARY] Résumé généré (33 mots)
+[UPLOAD] Fichier reçu : test_doc.pdf
+[PARSE] 14 pages extraites depuis le fichier test_doc.pdf
+[EMBED] Embeddings générés ((14, 384))
+[QUERY] Question posée : ou acheter mon poisson ? | Top-3 résultats : [13  3  8]
+[SUMMARY] Résumé généré (33 mots)
+[UPLOAD] Fichier reçu : test_doc.pdf
+[PARSE] 14 pages extraites depuis le fichier test_doc.pdf
+[EMBED] Embeddings générés ((14, 384))
+[QUERY] Question posée : ou acheter mon poisson ? | Top-3 résultats : [13  3  8]
+[SUMMARY] Résumé généré (33 mots)
+[UPLOAD] Fichier reçu : TypesComportementsAchat.txt
+[PARSE] 10 pages extraites depuis le fichier TypesComportementsAchat.txt
+[EMBED] Embeddings générés ((10, 384))
+[UPLOAD] Fichier reçu : TypesComportementsAchat.txt
+[PARSE] 10 pages extraites depuis le fichier TypesComportementsAchat.txt
+[EMBED] Embeddings générés ((10, 384))
+[QUERY] Question posée : sujet ? | Top-3 résultats : [0 5 9]
+[SUMMARY] Résumé généré (15 mots)
+[UPLOAD] Fichier reçu : TypesComportementsAchat.txt
+[PARSE] 10 pages extraites depuis le fichier TypesComportementsAchat.txt
+[EMBED] Embeddings générés ((10, 384))
+[QUERY] Question posée : sujet ? | Top-3 résultats : [0 5 9]
+[SUMMARY] Résumé généré (15 mots)
+[UPLOAD] Fichier reçu : TypesComportementsAchat.txt
+[PARSE] 10 pages extraites depuis le fichier TypesComportementsAchat.txt
+[EMBED] Embeddings générés ((10, 384))
+[QUERY] Question posée : sujet ? | Top-3 résultats : [0 5 9]
+[SUMMARY] Résumé généré (15 mots)
+[UPLOAD] Fichier reçu : TypesComportementsAchat.txt
+[PARSE] 10 pages extraites depuis le fichier TypesComportementsAchat.txt
+[EMBED] Embeddings générés ((10, 384))
+[QUERY] Question posée : sujet ? | Top-3 résultats : [0 5 9]
+[SUMMARY] Résumé généré (15 mots)
+[UPLOAD] Fichier reçu : test_doc.pdf
+[PARSE] 14 pages extraites depuis le fichier test_doc.pdf
+[EMBED] Embeddings générés ((14, 384))
+[UPLOAD] Fichier reçu : test_doc.pdf
+[PARSE] 14 pages extraites depuis le fichier test_doc.pdf
+[EMBED] Embeddings générés ((14, 384))
+[QUERY] Question posée : ou acheter mon poisson ? | Top-3 résultats : [13  3  8]
+[SUMMARY] Résumé généré (33 mots)
+[UPLOAD] Fichier reçu : test_doc.pdf
+[PARSE] 14 pages extraites depuis le fichier test_doc.pdf
+[EMBED] Embeddings générés ((14, 384))
+[QUERY] Question posée : ou acheter mon poisson ? | Top-3 résultats : [13  3  8]
+[SUMMARY] Résumé généré (33 mots)
+[UPLOAD] Fichier reçu : TypesComportementsAchat.txt
+[PARSE] 10 pages extraites depuis le fichier TypesComportementsAchat.txt
+[EMBED] Embeddings générés ((10, 384))
+[UPLOAD] Fichier reçu : TypesComportementsAchat.txt
+[PARSE] 10 pages extraites depuis le fichier TypesComportementsAchat.txt
+[EMBED] Embeddings générés ((10, 384))
+[UPLOAD] Fichier reçu : smart-goals.html
+[PARSE] 1 pages extraites depuis le fichier smart-goals.html
+[EMBED] Embeddings générés ((1, 384))
+[UPLOAD] Fichier reçu : TypesComportementsAchat.txt
+[PARSE] 10 pages extraites depuis le fichier TypesComportementsAchat.txt
+[EMBED] Embeddings générés ((10, 384))
+[UPLOAD] Fichier reçu : TypesComportementsAchat.txt
+[PARSE] 10 pages extraites depuis le fichier TypesComportementsAchat.txt
+[EMBED] Embeddings générés ((10, 384))
+[QUERY] Question posée : qui est ce ? | Top-3 résultats : [0 1 3]
+[SUMMARY] Résumé généré (43 mots)
+[UPLOAD] Fichier reçu : TypesComportementsAchat.txt
+[PARSE] 10 pages extraites depuis le fichier TypesComportementsAchat.txt
+[EMBED] Embeddings générés ((10, 384))
+[QUERY] Question posée : qui est ce ? | Top-3 résultats : [0 1 3]
+[SUMMARY] Résumé généré (43 mots)
+[UPLOAD] Fichier reçu : TypesComportementsAchat.txt
+[PARSE] 10 pages extraites depuis le fichier TypesComportementsAchat.txt
+[EMBED] Embeddings générés ((10, 384))
+[QUERY] Question posée : qui est ce ? | Top-3 résultats : [0 1 3]
+[SUMMARY] Résumé généré (43 mots)
+[UPLOAD] Fichier reçu : TypesComportementsAchat.txt
+[PARSE] 10 pages extraites depuis le fichier TypesComportementsAchat.txt
+[EMBED] Embeddings générés ((10, 384))
+[QUERY] Question posée : qui est ce ? | Top-3 résultats : [0 1 3]
+[SUMMARY] Résumé généré (43 mots)
+[UPLOAD] Fichier reçu : test_doc.pdf
+[PARSE] 14 pages extraites depuis le fichier test_doc.pdf
+[EMBED] Embeddings générés ((14, 384))
+[UPLOAD] Fichier reçu : test_doc.pdf
+[PARSE] 14 pages extraites depuis le fichier test_doc.pdf
+[EMBED] Embeddings générés ((14, 384))
+[QUERY] Question posée : hello world | Top-3 résultats : [4 9 5]
+[SUMMARY] Résumé généré (25 mots)
+[UPLOAD] Fichier reçu : test_doc.pdf
+[PARSE] 14 pages extraites depuis le fichier test_doc.pdf
+[EMBED] Embeddings générés ((14, 384))
+[QUERY] Question posée : hello world | Top-3 résultats : [4 9 5]
+[SUMMARY] Résumé généré (25 mots)
+[UPLOAD] Fichier reçu : W07D1_Comprendre.docx
+[PARSE] 42 pages extraites depuis le fichier W07D1_Comprendre.docx
+[EMBED] Embeddings générés ((42, 384))
+[UPLOAD] Fichier reçu : W07D1_Comprendre.docx
+[PARSE] 42 pages extraites depuis le fichier W07D1_Comprendre.docx
+[EMBED] Embeddings générés ((42, 384))
+[QUERY] Question posée : Que dis tu ? | Top-3 résultats : [25 27 41]
+[SUMMARY] Résumé généré (55 mots)
+[UPLOAD] Fichier reçu : W07D1_Comprendre.docx
+[PARSE] 42 pages extraites depuis le fichier W07D1_Comprendre.docx
+[EMBED] Embeddings générés ((42, 384))
+[QUERY] Question posée : Que dis tu ? | Top-3 résultats : [25 27 41]
+[SUMMARY] Résumé généré (55 mots)
+[UPLOAD] Fichier reçu : W07D1_Comprendre.docx
+[PARSE] 42 pages extraites depuis le fichier W07D1_Comprendre.docx
+[EMBED] Embeddings générés ((42, 384))
+[QUERY] Question posée : Que dis tu ? | Top-3 résultats : [25 27 41]
+[SUMMARY] Résumé généré (55 mots)
+[UPLOAD] Fichier reçu : W07D1_Comprendre.docx
+[PARSE] 42 pages extraites depuis le fichier W07D1_Comprendre.docx
+[EMBED] Embeddings générés ((42, 384))
+[QUERY] Question posée : Que dis tu ? | Top-3 résultats : [25 27 41]
+[SUMMARY] Résumé généré (55 mots)
+[UPLOAD] Fichier reçu : IA comique.pdf
+[PARSE] 1 pages extraites depuis le fichier IA comique.pdf
+[EMBED] Embeddings générés ((1, 384))
+[QUERY] Question posée : Que dis tu ? | Top-3 résultats : [ 0 -1 -1]
+[SUMMARY] Résumé généré (36 mots)
+[UPLOAD] Fichier reçu : IA comique.pdf
+[PARSE] 1 pages extraites depuis le fichier IA comique.pdf
+[EMBED] Embeddings générés ((1, 384))
+[QUERY] Question posée : Est ce qu'une ia a de l'humour ? | Top-3 résultats : [ 0 -1 -1]
+[SUMMARY] Résumé généré (36 mots)
+[UPLOAD] Fichier reçu : IA comique.pdf
+[PARSE] 1 pages extraites depuis le fichier IA comique.pdf
+[EMBED] Embeddings générés ((1, 384))
+[QUERY] Question posée : ordinateur | Top-3 résultats : [ 0 -1 -1]
+[SUMMARY] Résumé généré (36 mots)
+[UPLOAD] Fichier reçu : IA comique.pdf
+[PARSE] 1 pages extraites depuis le fichier IA comique.pdf
+[EMBED] Embeddings générés ((1, 384))
+[QUERY] Question posée : est ce que tu sais parler ? | Top-3 résultats : [ 0 -1 -1]
+[SUMMARY] Résumé généré (36 mots)
+[UPLOAD] Fichier reçu : Negativbestätigung+Unterlassungsverfügung DE 20220828 V03.odt
+[PARSE] 20 pages extraites depuis le fichier Negativbestätigung+Unterlassungsverfügung DE 20220828 V03.odt
+[EMBED] Embeddings générés ((20, 384))
+[QUERY] Question posée : est ce que tu sais parler ? | Top-3 résultats : [14 13 16]
+[SUMMARY] Résumé généré (43 mots)
+[UPLOAD] Fichier reçu : Negativbestätigung+Unterlassungsverfügung DE 20220828 V03.odt
+[PARSE] 20 pages extraites depuis le fichier Negativbestätigung+Unterlassungsverfügung DE 20220828 V03.odt
+[EMBED] Embeddings générés ((20, 384))
+[QUERY] Question posée : tu quoi tu parles ? | Top-3 résultats : [19 14 17]
+[SUMMARY] Résumé généré (23 mots)
+[UPLOAD] Fichier reçu : TypesComportementsAchat.txt
+[PARSE] 10 pages extraites depuis le fichier TypesComportementsAchat.txt
+[EMBED] Embeddings générés ((10, 384))
+[QUERY] Question posée : tu quoi tu parles ? | Top-3 résultats : [9 0 1]
+[SUMMARY] Résumé généré (39 mots)
+[UPLOAD] Fichier reçu : TypesComportementsAchat.txt
+[PARSE] 10 pages extraites depuis le fichier TypesComportementsAchat.txt
+[EMBED] Embeddings générés ((10, 384))
+[QUERY] Question posée : le client estt il sage ? | Top-3 résultats : [8 0 3]
+[SUMMARY] Résumé généré (43 mots)
+[UPLOAD] Fichier reçu : TypesComportementsAchat.txt
+[PARSE] 10 pages extraites depuis le fichier TypesComportementsAchat.txt
+[EMBED] Embeddings générés ((10, 384))
+[QUERY] Question posée : le client est il independant ? | Top-3 résultats : [0 3 9]
+[SUMMARY] Résumé généré (11 mots)
+[UPLOAD] Fichier reçu : TypesComportementsAchat.txt
+[PARSE] 10 pages extraites depuis le fichier TypesComportementsAchat.txt
+[EMBED] Embeddings générés ((10, 384))
+[QUERY] Question posée : quels sont les comportements du client ? | Top-3 résultats : [3 0 8]
+[SUMMARY] Résumé généré (11 mots)
+[UPLOAD] Fichier reçu : Negativbestätigung+Unterlassungsverfügung DE 20220828 V03.odt
+[PARSE] 20 pages extraites depuis le fichier Negativbestätigung+Unterlassungsverfügung DE 20220828 V03.odt
+[EMBED] Embeddings générés ((20, 384))
+[QUERY] Question posée : quels sont les comportements du client ? | Top-3 résultats : [16 12 19]
+[SUMMARY] Résumé généré (34 mots)
+[QUERY] Question posée : quels sont les comportements du client ? | Top-3 résultats : [16 12 19]
+[SUMMARY] Résumé généré (34 mots)
+[UPLOAD] Fichier reçu : TypesComportementsAchat.txt
+[PARSE] 10 pages extraites depuis le fichier TypesComportementsAchat.txt
+[EMBED] Embeddings générés ((10, 384))
+[QUERY] Question posée : quels sont les comportements du client ? | Top-3 résultats : [3 0 8]
+[SUMMARY] Résumé généré (11 mots)
+[UPLOAD] Fichier reçu : TypesComportementsAchat.txt
+[PARSE] 10 pages extraites depuis le fichier TypesComportementsAchat.txt
+[EMBED] Embeddings générés ((10, 384))
+[QUERY] Question posée : quels sont les comportements du client ? | Top-3 résultats : [3 0 8]
+[SUMMARY] Résumé généré (11 mots)
+[UPLOAD] Fichier reçu : TypesComportementsAchat.txt
+[PARSE] 10 pages extraites depuis le fichier TypesComportementsAchat.txt
+[EMBED] Embeddings générés ((10, 384))
+[QUERY] Question posée : quels sont les comportements du client ? | Top-3 résultats : [3 0 8]
+[SUMMARY] Résumé généré (11 mots)
+[QUERY] Question posée : quels sont les comportements du client ? | Top-3 résultats : [3 0 8]
+[SUMMARY] Résumé généré (11 mots)
+[UPLOAD] Fichier reçu : test_doc.pdf
+[PARSE] 14 pages extraites depuis le fichier test_doc.pdf
+[EMBED] Embeddings générés ((14, 384))
+[QUERY] Question posée : quels sont les comportements du client ? | Top-3 résultats : [11 13  1]
+[SUMMARY] Résumé généré (48 mots)
+[UPLOAD] Fichier reçu : test_doc.pdf
+[PARSE] 14 pages extraites depuis le fichier test_doc.pdf
+[EMBED] Embeddings générés ((14, 384))
+[QUERY] Question posée : quels sont les comportements du client ? | Top-3 résultats : [11 13  1]
+[SUMMARY] Résumé généré (48 mots)
+[UPLOAD] Fichier reçu : test_doc.pdf
+[PARSE] 14 pages extraites depuis le fichier test_doc.pdf
+[EMBED] Embeddings générés ((14, 384))
+[QUERY] Question posée : quels sont les comportements du client ? | Top-3 résultats : [11 13  1]
+[SUMMARY] Résumé généré (48 mots)
+[QUERY] Question posée : quels sont les comportements du client ? | Top-3 résultats : [11 13  1]
+[SUMMARY] Résumé généré (48 mots)
+[UPLOAD] Fichier reçu : IA comique.txt
+[PARSE] 1 pages extraites depuis le fichier IA comique.txt
+[EMBED] Embeddings générés ((1, 384))
+[QUERY] Question posée : quels sont les comportements du client ? | Top-3 résultats : [ 0 -1 -1]
+[SUMMARY] Résumé généré (52 mots)
+[UPLOAD] Fichier reçu : IA comique.pdf
+[PARSE] 1 pages extraites depuis le fichier IA comique.pdf
+[EMBED] Embeddings générés ((1, 384))
+[QUERY] Question posée : quels sont les comportements du client ? | Top-3 résultats : [ 0 -1 -1]
+[SUMMARY] Résumé généré (36 mots)
+[UPLOAD] Fichier reçu : test_doc.pdf
+[PARSE] 14 pages extraites depuis le fichier test_doc.pdf
+[EMBED] Embeddings générés ((14, 384))
+[QUERY] Question posée : quels sont les comportements du client ? | Top-3 résultats : [11 13  1]
+[SUMMARY] Résumé généré (48 mots)
+[UPLOAD] Fichier reçu : TypesComportementsAchat.txt
+[PARSE] 10 pages extraites depuis le fichier TypesComportementsAchat.txt
+[EMBED] Embeddings générés ((10, 384))
+[QUERY] Question posée : quels sont les comportements du client ? | Top-3 résultats : [3 0 8]
+[SUMMARY] Résumé généré (11 mots)
+[UPLOAD] Fichier reçu : TypesComportementsAchat.txt
+[PARSE] 10 pages extraites depuis le fichier TypesComportementsAchat.txt
+[EMBED] Embeddings générés ((10, 384))
+[UPLOAD] Fichier reçu : TypesComportementsAchat.txt
+[PARSE] 10 pages extraites depuis le fichier TypesComportementsAchat.txt
+[EMBED] Embeddings générés ((10, 384))
+[UPLOAD] Fichier reçu : TypesComportementsAchat.txt
+[PARSE] 10 pages extraites depuis le fichier TypesComportementsAchat.txt
+[EMBED] Embeddings générés ((10, 384))
+[QUERY] Question posée : qu'est ce qu'un client ? | Top-3 résultats : [0 3 8]
+[SUMMARY] Résumé généré (11 mots)
+[UPLOAD] Fichier reçu : TypesComportementsAchat.txt
+[PARSE] 10 pages extraites depuis le fichier TypesComportementsAchat.txt
+[EMBED] Embeddings générés ((10, 384))
+[QUERY] Question posée : qu'est ce qu'un client ? | Top-3 résultats : [0 3 8]
+[SUMMARY] Résumé généré (11 mots)
+[UPLOAD] Fichier reçu : TypesComportementsAchat.txt
+[PARSE] 10 pages extraites depuis le fichier TypesComportementsAchat.txt
+[EMBED] Embeddings générés ((10, 384))
+[QUERY] Question posée : qu'est ce qu'un client ? | Top-3 résultats : [0 3 8]
+[SUMMARY] Résumé généré (11 mots)
+[UPLOAD] Fichier reçu : TypesComportementsAchat.txt
+[PARSE] 10 pages extraites depuis le fichier TypesComportementsAchat.txt
+[EMBED] Embeddings générés ((10, 384))
+[QUERY] Question posée : qu'est ce qu'un client ? | Top-3 résultats : [0 3 8]
+[SUMMARY] Résumé généré (11 mots)
+[UPLOAD] Fichier reçu : W07D1_Comprendre.docx
+[PARSE] 42 pages extraites depuis le fichier W07D1_Comprendre.docx
+[EMBED] Embeddings générés ((42, 384))
+[QUERY] Question posée : qu'est ce qu'un client ? | Top-3 résultats : [22 27 20]
+[SUMMARY] Résumé généré (49 mots)
+[UPLOAD] Fichier reçu : test_doc.pdf
+[PARSE] 14 pages extraites depuis le fichier test_doc.pdf
+[EMBED] Embeddings générés ((14, 384))
+[QUERY] Question posée : qu'est ce qu'un client ? | Top-3 résultats : [ 1 11 13]
+[SUMMARY] Résumé généré (53 mots)
+[UPLOAD] Fichier reçu : test_doc.pdf
+[PARSE] 14 pages extraites depuis le fichier test_doc.pdf
+[EMBED] Embeddings générés ((14, 384))
+[QUERY] Question posée : qu'est ce qu'un client ? | Top-3 résultats : [ 1 11 13]
+[SUMMARY] Résumé généré (53 mots)
+[UPLOAD] Fichier reçu : test_doc.pdf
+[PARSE] 14 pages extraites depuis le fichier test_doc.pdf
+[EMBED] Embeddings générés ((14, 384))
+[QUERY] Question posée : qu'est ce qu'un client ? | Top-3 résultats : [ 1 11 13]
+[SUMMARY] Résumé généré (53 mots)
+[UPLOAD] Fichier reçu : test_doc.pdf
+[PARSE] 14 pages extraites depuis le fichier test_doc.pdf
+[EMBED] Embeddings générés ((14, 384))
+[UPLOAD] Fichier reçu : test_doc.pdf
+[PARSE] 14 pages extraites depuis le fichier test_doc.pdf
+[EMBED] Embeddings générés ((14, 384))
+[QUERY] Question posée : Quels sont les comportements du clients ? | Top-3 résultats : [11 13  1]
+[SUMMARY] Résumé généré (48 mots)
+[UPLOAD] Fichier reçu : test_doc.pdf
+[PARSE] 14 pages extraites depuis le fichier test_doc.pdf
+[EMBED] Embeddings générés ((14, 384))
+[QUERY] Question posée : Quels sont les comportements du clients ? | Top-3 résultats : [11 13  1]
+[SUMMARY] Résumé généré (48 mots)
+[UPLOAD] Fichier reçu : test_doc.pdf
+[PARSE] 14 pages extraites depuis le fichier test_doc.pdf
+[EMBED] Embeddings générés ((14, 384))
+[QUERY] Question posée : Quels sont les comportements du clients ? | Top-3 résultats : [11 13  1]
+[SUMMARY] Résumé généré (48 mots)
+[UPLOAD] Fichier reçu : test_doc.pdf
+[PARSE] 14 pages extraites depuis le fichier test_doc.pdf
+[EMBED] Embeddings générés ((14, 384))
+[UPLOAD] Fichier reçu : test_doc.pdf
+[PARSE] 14 pages extraites depuis le fichier test_doc.pdf
+[EMBED] Embeddings générés ((14, 384))
+[QUERY] Question posée : quels sont les comportements du client ? | Top-3 résultats : [11 13  1]
+[SUMMARY] Résumé généré (48 mots)
+[UPLOAD] Fichier reçu : test_doc.pdf
+[PARSE] 14 pages extraites depuis le fichier test_doc.pdf
+[EMBED] Embeddings générés ((14, 384))
+[QUERY] Question posée : quels sont les comportements du client ? | Top-3 résultats : [11 13  1]
+[SUMMARY] Résumé généré (48 mots)
+[UPLOAD] Fichier reçu : test_doc.pdf
+[PARSE] 14 pages extraites depuis le fichier test_doc.pdf
+[EMBED] Embeddings générés ((14, 384))
+[QUERY] Question posée : quels sont les comportements du client ? | Top-3 résultats : [11 13  1]
+[SUMMARY] Résumé généré (48 mots)
+[UPLOAD] Fichier reçu : test_doc.pdf
+[PARSE] 14 pages extraites depuis le fichier test_doc.pdf
+[EMBED] Embeddings générés ((14, 384))
+[UPLOAD] Fichier reçu : test_doc.pdf
+[PARSE] 14 pages extraites depuis le fichier test_doc.pdf
+[EMBED] Embeddings générés ((14, 384))
+[QUERY] Question posée : quels sont les comportements du client ? | Top-3 résultats : [11 13  1]
+[SUMMARY] Résumé généré (48 mots)
+[UPLOAD] Fichier reçu : test_doc.pdf
+[PARSE] 14 pages extraites depuis le fichier test_doc.pdf
+[EMBED] Embeddings générés ((14, 384))
+[QUERY] Question posée : quels sont les comportements du client ? | Top-3 résultats : [11 13  1]
+[SUMMARY] Résumé généré (48 mots)
+[UPLOAD] Fichier reçu : test_doc.pdf
+[PARSE] 14 pages extraites depuis le fichier test_doc.pdf
+[EMBED] Embeddings générés ((14, 384))
+[QUERY] Question posée : quels sont les comportements du client ? | Top-3 résultats : [11 13  1]
+[SUMMARY] Résumé généré (48 mots)
+[UPLOAD] Fichier reçu : test_doc.pdf
+[PARSE] 14 pages extraites depuis le fichier test_doc.pdf
+[EMBED] Embeddings générés ((14, 384))
+[QUERY] Question posée : quels sont les comportements du client ? | Top-3 résultats : [11 13  1]
+[SUMMARY] Résumé généré (48 mots)
+[UPLOAD] Fichier reçu : test_doc.pdf
+[PARSE] 14 pages extraites depuis le fichier test_doc.pdf
+[EMBED] Embeddings générés ((14, 384))
+[UPLOAD] Fichier reçu : test_doc.pdf
+[PARSE] 14 pages extraites depuis le fichier test_doc.pdf
+[EMBED] Embeddings générés ((14, 384))
+[QUERY] Question posée : quels sont les comportements du client ? | Top-3 résultats : [11 13  1]
+[SUMMARY] Résumé généré (48 mots)
+[UPLOAD] Fichier reçu : test_doc.pdf
+[PARSE] 14 pages extraites depuis le fichier test_doc.pdf
+[EMBED] Embeddings générés ((14, 384))
+[QUERY] Question posée : quels sont les comportements du client ? | Top-3 résultats : [11 13  1]
+[SUMMARY] Résumé généré (48 mots)
+[UPLOAD] Fichier reçu : test_doc.pdf
+[PARSE] 14 pages extraites depuis le fichier test_doc.pdf
+[EMBED] Embeddings générés ((14, 384))
+[QUERY] Question posée : quels sont les comportements du client ? | Top-3 résultats : [11 13  1]
+[SUMMARY] Résumé généré (48 mots)
+[UPLOAD] Fichier reçu : test_doc.pdf
+[PARSE] 14 pages extraites depuis le fichier test_doc.pdf
+[EMBED] Embeddings générés ((14, 384))
+[QUERY] Question posée : quels sont les comportements du client ? | Top-3 résultats : [11 13  1]
+[SUMMARY] Résumé généré (48 mots)
+[UPLOAD] Fichier reçu : test_doc.pdf
+[PARSE] 14 pages extraites depuis le fichier test_doc.pdf
+[EMBED] Embeddings générés ((14, 384))
+[QUERY] Question posée : quels sont les comportements du client ? | Top-3 résultats : [11 13  1]
+[SUMMARY] Résumé généré (48 mots)
+[UPLOAD] Fichier reçu : test_doc.pdf
+[PARSE] 14 pages extraites depuis le fichier test_doc.pdf
+[EMBED] Embeddings générés ((14, 384))
+[QUERY] Question posée : quels sont les comportements du client ? | Top-3 résultats : [11 13  1]
+[SUMMARY] Résumé généré (48 mots)
+[UPLOAD] Fichier reçu : test_doc.pdf
+[PARSE] 14 pages extraites depuis le fichier test_doc.pdf
+[EMBED] Embeddings générés ((14, 384))
+[QUERY] Question posée : quels sont les comportements du client ? | Top-3 résultats : [11 13  1]
+[SUMMARY] Résumé généré (48 mots)
+[UPLOAD] Fichier reçu : test_doc.pdf
+[PARSE] 14 pages extraites depuis le fichier test_doc.pdf
+[EMBED] Embeddings générés ((14, 384))
+[QUERY] Question posée : quels sont les comportements du client ? | Top-3 résultats : [11 13  1]
+[SUMMARY] Résumé généré (48 mots)
+[UPLOAD] Fichier reçu : smart-goals.html
+[PARSE] 1 pages extraites depuis le fichier smart-goals.html
+[EMBED] Embeddings générés ((1, 384))
+[QUERY] Question posée : quels sont les comportements du client ? | Top-3 résultats : [ 0 -1 -1]
+[SUMMARY] Résumé généré (11 mots)
+[UPLOAD] Fichier reçu : smart-goals.html
+[PARSE] 1 pages extraites depuis le fichier smart-goals.html
+[EMBED] Embeddings générés ((1, 384))
+[UPLOAD] Fichier reçu : smart-goals.html
+[PARSE] 1 pages extraites depuis le fichier smart-goals.html
+[EMBED] Embeddings générés ((1, 384))
+[UPLOAD] Fichier reçu : smart-goals.html
+[PARSE] 1 pages extraites depuis le fichier smart-goals.html
+[EMBED] Embeddings générés ((1, 384))
+[QUERY] Question posée : que quand ? | Top-3 résultats : [ 0 -1 -1]
+[SUMMARY] Résumé généré (11 mots)
+[UPLOAD] Fichier reçu : smart-goals.html
+[PARSE] 1 pages extraites depuis le fichier smart-goals.html
+[EMBED] Embeddings générés ((1, 384))
+[QUERY] Question posée : que quand ? | Top-3 résultats : [ 0 -1 -1]
+[SUMMARY] Résumé généré (11 mots)
+[UPLOAD] Fichier reçu : smart-goals.html
+[PARSE] 1 pages extraites depuis le fichier smart-goals.html
+[EMBED] Embeddings générés ((1, 384))
+[QUERY] Question posée : que quand ? | Top-3 résultats : [ 0 -1 -1]
+[SUMMARY] Résumé généré (11 mots)

@@ -1,0 +1,10 @@
+streamlit
+sentence-transformers
+pymupdf
+python-docx
+beautifulsoup4
+odfpy
+spacy
+scikit-learn
+numpy
+
